@@ -1,2 +1,2 @@
-# collisionAlgorithm-master
-collision between two sprites
+# collisionAlgorithm
+Algorithm to detect collision between two objects
